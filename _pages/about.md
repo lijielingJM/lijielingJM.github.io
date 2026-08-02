@@ -19,8 +19,9 @@ redirect_from:
 
 李杰铃，男，2026年6月毕业于厦门大学，师从肖亮教授（长江学者、IEEE Fellow）。已在IEEE TMC和TCOM、ICC和GLOBECOM等学术期刊及会议上发表论文三十余篇。研究方向为安全组网、强化学习和网络安全。
 
-# 📝 Publications 
+# 📝 Publications 出版物
 
+### Journal Papers
 1. Environment-Aware Jamming-Resilient UAV Routing Against Gray-Hole Attacks in Maritime Networks  
 **Jieling Li**; Liang Xiao; Tuhao Li; Liqing Ye and Pengcheng Wang  
 IEEE Transactions on Mobile Computing, 2026.
