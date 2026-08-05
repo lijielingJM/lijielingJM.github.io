@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 李杰铃，男，博士毕业于厦门大学，导师为肖亮教授。已在IEEE TMC和TCOM、ICC和GLOBECOM等学术期刊及会议上发表论文三十余篇。研究方向为安全组网、强化学习和网络安全。
@@ -38,6 +31,7 @@ redirect_from:
 14. 陈乔鑫，肖亮，王鹏程，**李杰铃**, 姚锦清，徐小宇. 面向大语言模型的海域通信物理层认证技术, *电子与信息学报*, 2026.
 15. 陈灏宇，肖亮，徐小宇，**李杰铃**，王子成，刘欢欢，陈宏毅. 面向大模型推断的海域无线物理层安全博弈, *电子与信息学报*，2026.
 16. 林志平，肖亮，陈宏毅，徐小宇，**李杰铃**. 面向大语言模型的抗干扰协同推断技术, *电子与信息学报*, 2025.
+17. 张浩，郭文忠，董晨，**李杰铃**. 新工科背景下的网络空间安全人才培养模式, 计算机教育, 2021.
 
 ## Conference Papers
 1. **Jieling Li**, Pengcheng Wang, Liang Xiao, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu. LLM-Aided UAV Routing Against Jamming Attacks, *IEEE International Conference on Communications (ICC)*, 2026.
@@ -57,6 +51,9 @@ redirect_from:
 15. Qiaoxin Chen, Pengcheng Wang, Liang Xiao, **Jieling Li**, Zhiping Lin, Hang Liu. LLM-Aided Physical-Layer Authentication for Maritime Wireless Networks, *IEEE International Conference on Communications (ICC)*, 2026.
 16. Pengli Zhang, Mingyang Fang, Liang Xiao, Huanhuan Liu, Qiaoxin Chen, **Jieling Li**. LLM-Aided UAV Anti-jamming Communications Based on Reinforcement Learning, *IEEE International Conference on Communications (ICC)*, 2026.
 17. Shaoxuan Li, Yuhong Zheng, Keyu Chen, Wei Su, **Jieling Li**, En Cheng. Environment-Aware Relay-Assisted Underwater Acoustic Communications Against Jamming, *IEEE/CIC International Conference on Communications in China (ICCC)*, 2026.
+
+# Projects
+中央高校基本科研业务费专项资金资助, 2025-2028, 参与.
 
 # Patents  
 1. 肖亮, **李杰铃**、齐旭晨、吕泽芳. 一种面向任务协同的无人机低能耗快速路由方法, ZL202310718810.X, 已授权.
