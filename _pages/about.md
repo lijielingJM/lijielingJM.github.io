@@ -43,7 +43,19 @@ redirect_from:
 1. **Jieling Li**, Pengcheng Wang, Liang Xiao, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu. LLM-Aided UAV Routing Against Jamming Attacks, *IEEE International Conference on Communications (ICC)*, 2026.
 2. **Jieling Li**, Chuxuan Wang, Liang Xiao, Zefang Lv, Pengli Zhang, Helin Yang. Reinforcement Learning Based Anti-Jamming FANET Routing with QoS Guarantee, *IEEE International Conference on Communications (ICC)*, 2025.
 3. **Jieling Li**, Tuhao Li, Liang Xiao, Liqing Ye, Pengcheng Wang. Jamming-Resilient Maritime UAV Routing Against Gray-Hole Attacks, *IEEE Global Communications Conference (GLOBECOM)*, 2025.
-4. 	
+4. Xuchen Qi, **Jieling Li**, Zefang Lv, Liang Xiao. Reinforcement Learning based Energy-Efficient Routing with Latency Constraints for FANETs, *IEEE Global Communications Conference (GLOBECOM)*, 2023.
+5. Chuxuan Wang, **Jieling Li**, Liqing Ye, Yu Liu, Liang Xiao. Reinforcement Learning Based Edge-Assisted Inference for Maritime UAV Networks, *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)*, 2024.
+6. Liqing Ye, Changjin Yu, Liang Xiao, **Jieling Li**, Haoyu Chen, Xiaoyu Xu, Hongyi Chen. LLM Based Edge-Assisted UAV Inference Against Jamming, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.
+7. Yiwen Zhan, **Jieling Li**, Liang Xiao, Mingyang Fang, Huanhuan Liu, Manhao Jiang, Zicheng Wang. LLM-Aided Anti-Jamming Communications for Multi-Agent Reinforcement Learning, *IEEE Global Communications Conference (GLOBECOM)*, 2026.
+8. Hao Zhang, **Jieling Li**. A New Network Intrusion Detection Based on Semi-supervised Dimensionality Reduction and Tri-LightGBM. *IEEE International Conference on Pervasive Artificial Intelligence (ICPAI)*, 2020.
+9. Hongyi Chen, Zhiping Lin, Yunjun Zhu, **Jieling Li**, Liang Xiao, Yuliang Tang, Yanyong Zhang. Reinforcement Learning Based Collaborative Perception for Vehicular Networks, *IEEE Global Communications Conference (GLOBECOM)*, 2024.
+10. Shuohua Wang, Huanhuan Liu, Zefang Lv, **Jieling Li**, Liang Xiao. Reinforcement Learning Based Energy-Efficient Anti-Jamming NB-IoT Communications, *IEEE Global Communications Conference (GLOBECOM)*, 2024.
+11. Liqing Ye, Jinming Zhang, Haoyu Chen, Zhiping Lin, **Jieling Li**, Zefang Lv, Liang Xiao. Learning-Based Edge-Assisted UAV Object Detection Against Jamming for Extended Reality, *IEEE/CIC International Conference on Communications in China (ICCC)*, 2024.
+12. Qiaoxin Chen, Pengcheng Wang, Liang Xiao, **Jieling Li**, Yuxiao Ren, Zefang Lv, Hongbin Jin. Reinforcement Learning Based UAV Swarm Enabled 3-D Multimodal Jamming Detection, *IEEE International Conference on Communications (ICC)*, 2025.
+13. Qiaoxin Chen, Changjin Yu, Liang Xiao, **Jieling Li**, Yunjun Zhu, Liqing Ye. WiFi CSI Based Energy-Efficient Drone Detection, *IEEE Global Communications Conference (GLOBECOM)*, 2025. 
+14. Zhifeng Zheng, Haoyu Chen, Liang Xiao, Zhiping Lin, **Jieling Li**, Xiaoyu Xu, Hongbin Jin. Joint RSS/AOA-Based Energy-Efficient 3-D Radio Localization with UAV, *IEEE/CIC International Conference on Communications in China (ICCC)*, 2025.
+15. Qiaoxin Chen, Pengcheng Wang, Liang Xiao, **Jieling Li**, Zhiping Lin, Hang Liu. LLM-Aided Physical-Layer Authentication for Maritime Wireless Networks, *IEEE International Conference on Communications (ICC)*, 2026.
+16. Pengli Zhang, Mingyang Fang, Liang Xiao, Huanhuan Liu, Qiaoxin Chen, **Jieling Li**. LLM-Aided UAV Anti-jamming Communications Based on Reinforcement Learning, *IEEE International Conference on Communications (ICC)*, 2026.
 
 # Patents  
 
