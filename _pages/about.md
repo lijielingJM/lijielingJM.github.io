@@ -37,19 +37,13 @@ redirect_from:
 13. 李少宣，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩, 面向时变水声信道的中继辅助抗干扰算法, 声学学报, 2026.
 
 ### Conference Papers
-1. Jieling Li, Pengcheng Wang, Liang Xiao, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu, LLM-Aided UAV Routing Against Jamming Attacks, IEEE International Conference on Communications (ICC), 2026.
+1. **Jieling Li**, Pengcheng Wang, Liang Xiao, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu, LLM-Aided UAV Routing Against Jamming Attacks, IEEE International Conference on Communications (ICC), 2026.
+2. **Jieling Li**, Chuxuan Wang, Liang Xiao, Zefang Lv, Pengli Zhang, Helin Yang. Reinforcement Learning Based Anti-Jamming FANET Routing with QoS Guarantee, IEEE International Conference on Communications (ICC), 2025.
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
