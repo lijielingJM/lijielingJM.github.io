@@ -28,13 +28,13 @@ IEEE Transactions on Mobile Computing, 2026.
 2. Learning-Based Energy-Efficient Anti-Jamming FANET Routing with QoS Guarantee
 **Jieling Li**, Liang Xiao, Chuxuan Wang, Zefang Lv, Pengli Zhang and Helin Yang
 IEEE Transactions on Communications, 2025.
-3. Reinforcement Learning based Energy-Efficient Fast Routing for FANETs
+4. Reinforcement Learning based Energy-Efficient Fast Routing for FANETs
 **Jieling Li**, Liang Xiao, Xuchen Qi, Zefang Lv, Qiaoxin Chen and Yong-Jin Liu
 IEEE Transactions on Communications, 2024.
-4. 大语言模型增强的抗灰洞攻击海域无人机路由算法
+5. 大语言模型增强的抗灰洞攻击海域无人机路由算法
 **李杰铃**, 肖亮，王鹏程，雷妍，陈乔鑫，王成耀
 电子学报，2025.
-5. 防御洪泛攻击的大模型辅助工业物联网安全路由方法
+6. 防御洪泛攻击的大模型辅助工业物联网安全路由方法
 **李杰铃**，肖亮，王成耀，方明洋，陈晨，雷妍
 电子与信息学报，2026.
 6.Reinforcement Learning Based Accurate Worm Detection for Smart Grids
