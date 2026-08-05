@@ -59,7 +59,7 @@ IEEE Transactions on Mobile Computing, 2026.
 Qiaoxin Chen, Liang Xiao, Pengcheng Wang, **Jieling Li**, Haoyu Chen, Hongbin Jin and Ying-Jun Angela Zhang
 IEEE Transactions on Communications, 2026.
 13. 面向时变水声信道的中继辅助抗干扰算法
-李少宜，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩
+李少宣，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩
 声学学报, 2026.
 
 ### Conference Papers
