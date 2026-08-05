@@ -1,4 +1,4 @@
----
+<img width="1021" height="88" alt="image" src="https://github.com/user-attachments/assets/7fe502a8-7bb5-4eb0-8e30-6caf7c2c09cc" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -28,10 +28,10 @@ redirect_from:
 5. **李杰铃**, 肖亮，王鹏程，雷妍，陈乔鑫，王成耀. 大语言模型增强的抗灰洞攻击海域无人机路由算法, *电子学报*，2025.
 6. **李杰铃**，肖亮，王成耀，方明洋，陈晨，雷妍. 防御洪泛攻击的大模型辅助工业物联网安全路由方法, *电子与信息学报*，2026.
 6. Liang Xiao, **Jieling Li**, Yilin Xiao, Zefang Lv, Chuxuan Wang and Pengmin Li. Reinforcement Learning Based Accurate Worm Detection for Smart Grids, *IEEE Internet of Things Journal*, 2025.
-7. **Jieling Li**, Hao Zhang, Zhihuang Liu and Yanhua Liu. Network intrusion detection via tri-broad learning system based on spatial-temporal granularity, *The Journal of Supercomputing*, 2023.
-8. **Jieling Li**, Hao Zhang, Yanhua Liu and Zhihuang Liu. Semi-supervised machine learning framework for network intrusion detection, *The Journal of Supercomputing*, 2022.
-9. Hao Zhang, **Jieling Li**, Ximeng Liu and Chen Dong. Multi-dimensional feature fusion and stacking ensemble mechanism for network intrusion detection, *Future Generation Computer Systems*, 2021.
-10. Lele Fu, **Jieling Li** and Chuan Chen. Consistent affinity representation learning with dual low-rank constraints for multi-view subspace clustering, *Neurocomputing*, 2022.
+7. **Jieling Li**, Hao Zhang, Zhihuang Liu and Yanhua Liu. Network Intrusion Detection via Tri-Broad Learning System Based on Spatial-Temporal Granularity, *The Journal of Supercomputing*, 2023.
+8. **Jieling Li**, Hao Zhang, Yanhua Liu and Zhihuang Liu. Semi-Supervised Machine Learning Framework for Network Intrusion Detection, *The Journal of Supercomputing*, 2022.
+9. Hao Zhang, **Jieling Li**, Ximeng Liu and Chen Dong. Multi-Dimensional Feature Fusion and Stacking Ensemble Mechanism for Network Intrusion Detection, *Future Generation Computer Systems*, 2021.
+10. Lele Fu, **Jieling Li** and Chuan Chen. Consistent Affinity Representation Learning with Dual Low-Rank Constraints for Multi-View Subspace Clustering, *Neurocomputing*, 2022.
 11. Haoyu Chen, Liang Xiao, Jiangtao Wang, **Jieling Li**, Xiaoyu Xu, Huanhuan Liu and Zhifeng Zheng. Vision-Aided 3-D Emitter Localization with UAV, *IEEE Transactions on Mobile Computing*, 2026.
 12. Qiaoxin Chen, Liang Xiao, Pengcheng Wang, **Jieling Li**, Haoyu Chen, Hongbin Jin and Ying-Jun Angela Zhang. UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Networks, *IEEE Transactions on Communications*, 2026.
 13. 李少宣，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩. 面向时变水声信道的中继辅助抗干扰算法, *声学学报*, 2026.
@@ -56,8 +56,17 @@ redirect_from:
 14. Zhifeng Zheng, Haoyu Chen, Liang Xiao, Zhiping Lin, **Jieling Li**, Xiaoyu Xu, Hongbin Jin. Joint RSS/AOA-Based Energy-Efficient 3-D Radio Localization with UAV, *IEEE/CIC International Conference on Communications in China (ICCC)*, 2025.
 15. Qiaoxin Chen, Pengcheng Wang, Liang Xiao, **Jieling Li**, Zhiping Lin, Hang Liu. LLM-Aided Physical-Layer Authentication for Maritime Wireless Networks, *IEEE International Conference on Communications (ICC)*, 2026.
 16. Pengli Zhang, Mingyang Fang, Liang Xiao, Huanhuan Liu, Qiaoxin Chen, **Jieling Li**. LLM-Aided UAV Anti-jamming Communications Based on Reinforcement Learning, *IEEE International Conference on Communications (ICC)*, 2026.
+17. Shaoxuan Li, Yuhong Zheng, Keyu Chen, Wei Su, **Jieling Li**, En Cheng. Environment-Aware Relay-Assisted Underwater Acoustic Communications Against Jamming, *IEEE/CIC International Conference on Communications in China (ICCC)*, 2026.
 
 # Patents  
+1. 肖亮, **李杰铃**、齐旭晨、吕泽芳. 一种面向任务协同的无人机低能耗快速路由方法, ZL202310718810.X, 已授权.
+2. 张浩, **李杰铃**. 基于半监督降维和Tri-LightGBM的异常流量检测方法, ZL202010892200.8, 已授权.
+3. 张浩, **李杰铃**. 基于时空粒度和三宽度学习的网络入侵检测方法及系统, ZL202110521018.6, 已授权.
+4. 张浩, **李杰铃**. 基于多维特征融合和堆栈集成学习的异常流量检测方法, ZL202010835255.5, 已授权.
+5. 肖亮, 李土浩, **李杰铃**, 陈乔鑫, 王鹏程, 林志平. 面向大语言模型的抗灰洞攻击无人机路由方法及装置, 已公开.
+6. 肖亮, 王鹏程, 陈乔鑫, **李杰铃**. 面向大语言模型的海域无线物理层认证方法及装置, 已公开.
+7. 肖亮, 任宇逍, 陈乔鑫, **李杰铃**, 杨和林, 王烁华. 基于无人机群的低空无线网络高精度干扰攻击检测方法, 已公开.
+8. 肖亮, 陈宏毅, 林志平, 徐小宇, **李杰铃**. 基于大语言模型的智能终端抗干扰多模协同推断方法, 已公开.
 
 # Honors and Awards 
 - 国家奖学金, 2021, 2022, 2025. 
@@ -66,5 +75,4 @@ redirect_from:
 - 福州大学综合奖学金特等奖, 2022.
 
 # Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- 网络空间安全青年博士生学术论坛, 专题学术报告, 2025.10, 福建省网络空间安全学会. 
