@@ -15,23 +15,24 @@ redirect_from:
 # Publications
 
 ## Journal Papers
-1. **Jieling Li**, Liang Xiao, Tuhao Li, Liqing Ye and Pengcheng Wang. Environment-Aware Jamming-Resilient UAV Routing Against Gray-Hole Attacks in Maritime Networks, *IEEE Transactions on Mobile Computing*, 2026.
-2. **Jieling Li**, Liang Xiao, Chuxuan Wang, Zefang Lv, Pengli Zhang and Helin Yang. Learning-Based Energy-Efficient Anti-Jamming FANET Routing with QoS Guarantee, *IEEE Transactions on Communications*, 2025.
+1. **Jieling Li**, Liang Xiao, Pengcheng Wang, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu and Weizhi Meng. Learning-Based LLM-Enhanced UAV  Routing Against Jamming and Gray-Hole Attacks, *IEEE Transactions on Information Forensics and Security*, 2026.
+2. **Jieling Li**, Liang Xiao, Tuhao Li, Liqing Ye and Pengcheng Wang. Environment-Aware Jamming-Resilient UAV Routing Against Gray-Hole Attacks in Maritime Networks, *IEEE Transactions on Mobile Computing*, 2026.
+3. **Jieling Li**, Liang Xiao, Chuxuan Wang, Zefang Lv, Pengli Zhang and Helin Yang. Learning-Based Energy-Efficient Anti-Jamming FANET Routing with QoS Guarantee, *IEEE Transactions on Communications*, 2025.
 4. **Jieling Li**, Liang Xiao, Xuchen Qi, Zefang Lv, Qiaoxin Chen and Yong-Jin Liu. Reinforcement Learning based Energy-Efficient Fast Routing for FANETs, *IEEE Transactions on Communications*, 2024.
 5. **李杰铃**, 肖亮，王鹏程，雷妍，陈乔鑫，王成耀. 大语言模型增强的抗灰洞攻击海域无人机路由算法, *电子学报*，2025.
 6. **李杰铃**，肖亮，王成耀，方明洋，陈晨，雷妍. 防御洪泛攻击的大模型辅助工业物联网安全路由方法, *电子与信息学报*，2026.
-6. Liang Xiao, **Jieling Li**, Yilin Xiao, Zefang Lv, Chuxuan Wang and Pengmin Li. Reinforcement Learning Based Accurate Worm Detection for Smart Grids, *IEEE Internet of Things Journal*, 2025.
-7. **Jieling Li**, Hao Zhang, Zhihuang Liu and Yanhua Liu. Network Intrusion Detection via Tri-Broad Learning System Based on Spatial-Temporal Granularity, *The Journal of Supercomputing*, 2023.
-8. **Jieling Li**, Hao Zhang, Yanhua Liu and Zhihuang Liu. Semi-Supervised Machine Learning Framework for Network Intrusion Detection, *The Journal of Supercomputing*, 2022.
-9. Hao Zhang, **Jieling Li**, Ximeng Liu and Chen Dong. Multi-Dimensional Feature Fusion and Stacking Ensemble Mechanism for Network Intrusion Detection, *Future Generation Computer Systems*, 2021.
-10. Lele Fu, **Jieling Li** and Chuan Chen. Consistent Affinity Representation Learning with Dual Low-Rank Constraints for Multi-View Subspace Clustering, *Neurocomputing*, 2022.
-11. Haoyu Chen, Liang Xiao, Jiangtao Wang, **Jieling Li**, Xiaoyu Xu, Huanhuan Liu and Zhifeng Zheng. Vision-Aided 3-D Emitter Localization with UAV, *IEEE Transactions on Mobile Computing*, 2026.
-12. Qiaoxin Chen, Liang Xiao, Pengcheng Wang, **Jieling Li**, Haoyu Chen, Hongbin Jin and Ying-Jun Angela Zhang. UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Networks, *IEEE Transactions on Communications*, 2026.
-13. 李少宣，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩. 面向时变水声信道的中继辅助抗干扰算法, *声学学报*, 2026.
-14. 陈乔鑫，肖亮，王鹏程，**李杰铃**, 姚锦清，徐小宇. 面向大语言模型的海域通信物理层认证技术, *电子与信息学报*, 2026.
-15. 陈灏宇，肖亮，徐小宇，**李杰铃**，王子成，刘欢欢，陈宏毅. 面向大模型推断的海域无线物理层安全博弈, *电子与信息学报*，2026.
-16. 林志平，肖亮，陈宏毅，徐小宇，**李杰铃**. 面向大语言模型的抗干扰协同推断技术, *电子与信息学报*, 2025.
-17. 张浩，郭文忠，董晨，**李杰铃**. 新工科背景下的网络空间安全人才培养模式, 计算机教育, 2021.
+7. Liang Xiao, **Jieling Li**, Yilin Xiao, Zefang Lv, Chuxuan Wang and Pengmin Li. Reinforcement Learning Based Accurate Worm Detection for Smart Grids, *IEEE Internet of Things Journal*, 2025.
+8. **Jieling Li**, Hao Zhang, Zhihuang Liu and Yanhua Liu. Network Intrusion Detection via Tri-Broad Learning System Based on Spatial-Temporal Granularity, *The Journal of Supercomputing*, 2023.
+9. **Jieling Li**, Hao Zhang, Yanhua Liu and Zhihuang Liu. Semi-Supervised Machine Learning Framework for Network Intrusion Detection, *The Journal of Supercomputing*, 2022.
+10. Hao Zhang, **Jieling Li**, Ximeng Liu and Chen Dong. Multi-Dimensional Feature Fusion and Stacking Ensemble Mechanism for Network Intrusion Detection, *Future Generation Computer Systems*, 2021.
+11. Lele Fu, **Jieling Li** and Chuan Chen. Consistent Affinity Representation Learning with Dual Low-Rank Constraints for Multi-View Subspace Clustering, *Neurocomputing*, 2022.
+12. Haoyu Chen, Liang Xiao, Jiangtao Wang, **Jieling Li**, Xiaoyu Xu, Huanhuan Liu and Zhifeng Zheng. Vision-Aided 3-D Emitter Localization with UAV, *IEEE Transactions on Mobile Computing*, 2026.
+13. Qiaoxin Chen, Liang Xiao, Pengcheng Wang, **Jieling Li**, Haoyu Chen, Hongbin Jin and Ying-Jun Angela Zhang. UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Networks, *IEEE Transactions on Communications*, 2026.
+14. 李少宣，郑宇宏，苏为，陈柯宇，**李杰铃**，程恩. 面向时变水声信道的中继辅助抗干扰算法, *声学学报*, 2026.
+15. 陈乔鑫，肖亮，王鹏程，**李杰铃**, 姚锦清，徐小宇. 面向大语言模型的海域通信物理层认证技术, *电子与信息学报*, 2026.
+16. 陈灏宇，肖亮，徐小宇，**李杰铃**，王子成，刘欢欢，陈宏毅. 面向大模型推断的海域无线物理层安全博弈, *电子与信息学报*，2026.
+17. 林志平，肖亮，陈宏毅，徐小宇，**李杰铃**. 面向大语言模型的抗干扰协同推断技术, *电子与信息学报*, 2025.
+18. 张浩，郭文忠，董晨，**李杰铃**. 新工科背景下的网络空间安全人才培养模式, 计算机教育, 2021.
 
 ## Conference Papers
 1. **Jieling Li**, Pengcheng Wang, Liang Xiao, Qiaoxin Chen, Yan Lei, Chengyao Wang, Hang Liu. LLM-Aided UAV Routing Against Jamming Attacks, *IEEE International Conference on Communications (ICC)*, 2026.
