@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-李杰铃，男，博士毕业于厦门大学，导师为肖亮教授。已在IEEE TMC和TCOM、ICC和GLOBECOM等学术期刊及会议上发表论文三十余篇。研究方向为安全组网、强化学习和网络安全。
+李杰铃，男，博士毕业于厦门大学，导师为肖亮教授。已在IEEE TIFS、TMC、TCOM、ICC和GLOBECOM等学术期刊及会议上发表论文三十余篇。研究方向为安全组网、强化学习和网络安全。
 
 # Publications
 
